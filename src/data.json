@@ -1,0 +1,141 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is NOT an Australian state or territory?",
+      "correct_answer": "Alberta",
+      "incorrect_answers": ["New South Wales", "Victoria", "Queensland"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The prefix Sino- (As in Sino-American) is used to refer to what nationality?",
+      "correct_answer": "Chinese",
+      "incorrect_answers": ["Japanese", "Russian", "Indian"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Politics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many people are in the U.S. House of Representatives?",
+      "correct_answer": "435",
+      "incorrect_answers": ["260", "415", "50"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Fallout 4&quot; which faction is not present in the game?",
+      "correct_answer": "The Enclave",
+      "incorrect_answers": [
+        "The Minutemen",
+        "The Brotherhood of Steel",
+        "The Institute"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which element has the highest melting point?",
+      "correct_answer": "Carbon",
+      "incorrect_answers": ["Tungsten", "Platinum", "Osmium"]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?",
+      "correct_answer": "Blonde",
+      "incorrect_answers": ["Auburn", "Brown", "Black"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The United States Army Air Corps became the United States Air Force on what date?",
+      "correct_answer": "September 18, 1947",
+      "incorrect_answers": [
+        "December 14, 1946",
+        "October 27, 1945",
+        "November 08, 1944"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The Killer Whale is considered a type of dolphin.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the name of the hip hop group Kanye West was a member of in the late 90s?",
+      "correct_answer": "The Go-Getters",
+      "incorrect_answers": [
+        "The Jumpers",
+        "The Kickstarters",
+        "The Beat-Busters"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the book series &quot;Odd Thomas&quot;, Danny Jessup has what genetic disease? ",
+      "correct_answer": " Osteogenesis Imperfecta",
+      "incorrect_answers": [
+        "Spinocerebellar ataxia",
+        "Adrenoleukodystrophy",
+        "Cystic Fibrosis"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is a colony of polyps and not a jellyfish?",
+      "correct_answer": "Portuguese Man-of-War",
+      "incorrect_answers": ["Sea Wasp", "Irukandji", "Sea Nettle"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which African American is in part responsible for integrating  Major League baseball?",
+      "correct_answer": "Jackie Robinson",
+      "incorrect_answers": ["Curt Flood", "Roy Campanella", "Satchell Paige"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": ["Tottenham Hotspur", "Watford", "Stoke City"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not in the Indo-European language family?",
+      "correct_answer": "Finnish",
+      "incorrect_answers": ["English", "Hindi", "Russian"]
+    }
+  ]
+}
